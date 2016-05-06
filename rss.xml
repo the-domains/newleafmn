@@ -4,8 +4,15 @@
         <description><![CDATA[New Leaf Landscaping & Design]]></description>
         <link>https://thegrid.ai/newleafmn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 17:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 17:08:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/newleafmn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9355dace-29d5-40e3-aaf0-a10c805be49c.jpg">]]></description>
+            <link>https://thegrid.ai/newleafmn/fire-pit/index.html</link>
+            <guid isPermaLink="false">4a727ecb-402e-4de1-a98a-c3a73f26c5df</guid>
+            <pubDate>Fri, 06 May 2016 17:08:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98dcab4a-0038-4de9-8a23-48d5d18e62b9.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/newleafmn/serving-the-west-metro-twin-cities/index.html</link>
             <guid isPermaLink="false">bd3c8342-512a-4c98-98e4-6ba26eea7dda</guid>
             <pubDate>Fri, 06 May 2016 17:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1f6b6f9-8e74-4f25-9e1c-d598405bee13.jpg">]]></description>
-            <link>https://thegrid.ai/newleafmn/fire-pit/index.html</link>
-            <guid isPermaLink="false">4a727ecb-402e-4de1-a98a-c3a73f26c5df</guid>
-            <pubDate>Fri, 06 May 2016 17:03:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

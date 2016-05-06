@@ -4,8 +4,15 @@
         <description><![CDATA[New Leaf Landscaping & Design]]></description>
         <link>https://thegrid.ai/newleafmn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 17:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 17:13:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/newleafmn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/340b57bd-77de-43c0-bacc-29c40ad6ea67.jpg">]]></description>
+            <link>https://thegrid.ai/newleafmn/serving-the-west-metro-twin-cities/index.html</link>
+            <guid isPermaLink="false">bd3c8342-512a-4c98-98e4-6ba26eea7dda</guid>
+            <pubDate>Fri, 06 May 2016 17:13:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7e19c30-a841-48bc-aa17-0fa9cba7be3a.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/newleafmn/brick-wall/index.html</link>
             <guid isPermaLink="false">6cd6289a-73d6-4190-8490-c400ea1f98a4</guid>
             <pubDate>Fri, 06 May 2016 17:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/340b57bd-77de-43c0-bacc-29c40ad6ea67.jpg">]]></description>
-            <link>https://thegrid.ai/newleafmn/serving-the-west-metro-twin-cities/index.html</link>
-            <guid isPermaLink="false">bd3c8342-512a-4c98-98e4-6ba26eea7dda</guid>
-            <pubDate>Fri, 06 May 2016 17:06:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

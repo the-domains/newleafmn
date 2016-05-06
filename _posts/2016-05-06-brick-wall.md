@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Brick Wall
-datePublished: '2016-05-06T17:04:19.985Z'
-dateModified: '2016-05-06T17:04:13.775Z'
+datePublished: '2016-05-06T17:08:19.135Z'
+dateModified: '2016-05-06T17:04:28.339Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-06-brick-wall.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-06-brick-wall.md
 url: brick-wall/index.html
 _type: Article
 
